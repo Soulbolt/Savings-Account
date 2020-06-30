@@ -1,0 +1,7 @@
+﻿  SavingsAccnt.cpp
+C:\Users\Cesar\source\repos\SavingsAccount\SavingsAccount\SavingsAccnt.cpp(6,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SavingsAccount.cpp
+C:\Users\Cesar\source\repos\SavingsAccount\SavingsAccount\SavingsAccount.cpp(10,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cesar\source\repos\SavingsAccount\SavingsAccount\SavingsAccount.cpp(11,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SavingsAccount.vcxproj -> C:\Users\Cesar\source\repos\SavingsAccount\Debug\SavingsAccount.exe
